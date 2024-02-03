@@ -70,4 +70,3 @@ This toolkit is curated and maintained by the Studio Freight Things team:
 ## License
 
 [The MIT License.](https://opensource.org/licenses/MIT)
-# novas-works
